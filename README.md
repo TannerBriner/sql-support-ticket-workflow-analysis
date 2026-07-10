@@ -69,7 +69,8 @@ project diagnoses those failure modes in a ticket dataset by answering:
   Billing's higher escalation rate (7.0%).
 
 Full numbers and the resulting prioritized recommendation in
-`results/findings.md`.
+`results/findings.md`. Raw output for every query — no clone/run required —
+is in `results/query_outputs.md`.
 
 ## What I'd do next
 
